@@ -14,6 +14,7 @@ database.db
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+database.db
 
 ### VisualStudio ###
 ## Ignore Visual Studio temporary files, build results, and
