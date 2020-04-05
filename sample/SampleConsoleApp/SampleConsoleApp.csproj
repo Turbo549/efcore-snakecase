@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Marques.EFCore.SnakeCase\Marques.EFCorev3.0.SnakeCase.csproj" />
+    <ProjectReference Include="..\..\src\Marques.EFCore.SnakeCase\ComputerInsights.EFCorev3.0.SnakeCase.csproj" />
   </ItemGroup>
 
 </Project>
